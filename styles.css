@@ -1,0 +1,28 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+#time-display {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+input {
+    width: 100%;
+    text-align: center;
+}
+
+.alert {
+    font-size: 1.1rem;
+    text-align: center;
+}
